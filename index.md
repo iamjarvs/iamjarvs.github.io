@@ -33,4 +33,4 @@ Feel free to reach out to me on [GitHub](https://github.com/yourusername) or [Tw
 
 ---
 
-Thanks for visiting my site! Come back soon for more updates.
+Thanks for visiting my site! Come back soon for more updates..
